@@ -45,7 +45,7 @@ namespace MurlocPaladin
                 }
                 else
                 {
-                    MessageBox.Show("鱼人这个asasasasas不对的11111111！");
+                    MessageBox.Show("鱼人这个asasasioufoiusadfoijsafdoijsdfaiojsdf11111！");
                 }
             }
             else
