@@ -45,7 +45,7 @@ namespace MurlocPaladin
                 }
                 else
                 {
-                    MessageBox.Show("鱼人这个asasasasas不对的11111111！");
+                    MessageBox.Show("鱼人这个asasasdfsdfsfsdfds111！");
                 }
             }
             else
@@ -122,7 +122,7 @@ namespace MurlocPaladin
         }
         public OldMurk_Eye(MurlocList oc)
         {
-            this.attack = 2;
+            this.attack = 5;
             this.health = 4;
             this.isCharge = true;
             buff(oc);

@@ -11,6 +11,7 @@ namespace MurlocPaladin
         /// <summary>
         /// 应用程序的主入口点。
         /// </summary>
+        /// ///asdasdasd
         [STAThread]
         static void Main()
         {
